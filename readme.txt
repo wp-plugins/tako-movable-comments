@@ -6,11 +6,13 @@ Tested up to: 3.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin allows you to move comments from one post or page to another. You can also move comments across post types and custom post types. Just click on edit comments and move your comments through the 'Move Comments with Tako' metabox.
+This plugin allows you to move comments from one post or page to another. You can also move comments across post types and custom post types.
 
 == Description ==
 
-By using this plugin in order to move comments, admins no longer need to manually insert the post ID number. Instead, admins can choose the post title through a drop down list. This allows admins to choose the post title that they want to move the comments to easily. Nested comments will also be automatically moved if the comment chosen to be moved has any nested comments under it. 
+By using this plugin in order to move comments, admins no longer need to manually insert the post ID number. Instead, admins can choose the post title through a drop down list. This allows admins to choose the post title that they want to move the comments to easily. Nested comments will also be automatically moved if the comment chosen to be moved has any nested comments under it.
+
+In order to use the plugin, just click on edit comments and move your comments through the 'Move Comments with Tako' metabox.
 
 Features:
 
