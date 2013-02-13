@@ -10,6 +10,8 @@ This plugin allows you to move comments from one post or page to another. You ca
 
 == Description ==
 
+This plugin allows you to move comments from one post or page to another. You can also move comments across post types and custom post types.
+
 By using this plugin in order to move comments, admins no longer need to manually insert the post ID number. Instead, admins can choose the post title through a drop down list. This allows admins to choose the post title that they want to move the comments to easily. Nested comments will also be automatically moved if the comment chosen to be moved has any nested comments under it.
 
 In order to use the plugin, just click on edit comments and move your comments through the 'Move Comments with Tako' metabox.
