@@ -33,3 +33,8 @@ Features:
 = How do I contact you if I have a question? =
 
 Email me at ren.aysha[at]gmail.com. Please include [tako-movable-comments] on the subject line.
+
+== Screenshots ==
+
+1. The Meta Box
+2. The Edit Comment Page with the Tako Meta Box
