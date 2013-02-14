@@ -1,6 +1,6 @@
 === Tako Movable Comments ===
 
-Tags: comments
+Tags: comments, edit comments, change comment, nested comments, update comment, move comments
 Requires at least: 3.0
 Tested up to: 3.5.1
 License: GPLv2 or later
