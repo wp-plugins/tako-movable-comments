@@ -6,7 +6,7 @@ Tested up to: 3.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin allows you to move comments from one post or page to another. You can also move comments across post types and custom post types.
+Move WordPress comments easily with Tako Movable Comments.
 
 == Description ==
 
@@ -29,6 +29,8 @@ Features:
 3. Click on edit comment and move the comment through the 'Move Comments with Tako' metabox
 
 == Frequently Asked Questions ==
+
+= If I have nested 
 
 = How do I contact you if I have a question? =
 
