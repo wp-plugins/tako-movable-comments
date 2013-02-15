@@ -22,6 +22,10 @@ Features:
 *   Automatically move all the nested comments under the comment chosen to be moved
 *   Manual insertion of post ID is not needed; post/page can be chosen under a dropdown list
 
+== Rate this Plugin ==
+
+Please rate this plugin if you find it useful. It gives the plugin more exposure and it will generate more downloads. Thank you so much for your help! :)
+
 == Installation ==
 
 1. Upload the Tako folder to the `/wp-content/plugins/` directory
@@ -34,7 +38,7 @@ Features:
 
 = How do I contact you if I have a question? =
 
-Email me at ren.aysha[at]gmail.com. Please include [tako-movable-comments] on the subject line.
+Email me at ren.aysha[at]gmail.com. Please include [tako-movable-comments] on the subject line. I am also on Twitter; tweet your questions to @RenettaRenula. You can also post your questions via the support forum.
 
 == Screenshots ==
 
