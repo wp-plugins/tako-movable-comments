@@ -22,7 +22,7 @@ Features:
 *   Automatically move all the nested comments under the comment chosen to be moved
 *   Manual insertion of post ID is not needed; post/page can be chosen under a dropdown list
 
-= Rate this Plugin =
+**Rate this Plugin**
 
 Please rate this plugin if you find it useful. It gives the plugin more exposure and it will generate more downloads. Thank you so much for your help! :)
 
