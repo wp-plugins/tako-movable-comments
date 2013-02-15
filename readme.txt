@@ -34,8 +34,6 @@ Please rate this plugin if you find it useful. It gives the plugin more exposure
 
 == Frequently Asked Questions ==
 
-= If I have nested 
-
 = How do I contact you if I have a question? =
 
 Email me at ren.aysha[at]gmail.com. Please include [tako-movable-comments] on the subject line. I am also on Twitter; tweet your questions to @RenettaRenula. You can also post your questions via the support forum.
