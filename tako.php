@@ -2,12 +2,12 @@
 /**
  * @package Tako Movable Comments
  * @author Ren Aysha
- * @version 1.0.1
+ * @version 1.0.2
  */
 /*
 Plugin Name: Tako Movable Comments
-Version: 1.0.1
-Plugin URI: http://www.renettarenula.github.com
+Version: 1.0.2
+Plugin URI: https://github.com/renettarenula/Tako/
 Author: Ren Aysha
 Author URI: http://twitter.com/RenettaRenula
 Description: This plugin allows you to move comments from one post or page to another. You can also move comments across post types and custom post types. Just click on edit comments and move your comments through the <strong>Move Comments with Tako</strong> metabox.
@@ -33,6 +33,7 @@ class Tako
 	/*--------------------------------------------*
 	 * Constructor
 	 *--------------------------------------------*/
+
 
 	/**
 	 * Initializes the plugin by adding meta box, filters, and JS files.
@@ -114,7 +115,9 @@ class Tako
 	 */
 	public function tako_save_meta_box( $comment_content ) 
 	{
-		if ( !wp_verify_nonce( $_POST['tako_nonce'], plugin_basename( __FILE__ ) ) )
+		$screen = get_current_screen();
+		// For Quick Edit: if current screen is anything other than edit-comments (main page for editing comments), ignore nonce verification.
+		if ( !wp_verify_nonce( $_POST['tako_nonce'], plugin_basename( __FILE__ ) ) && $screen->parent_base == 'edit-comments' )
 			return;
 		if ( !current_user_can( 'moderate_comments' ) )  {
 			return;
