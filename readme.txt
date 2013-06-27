@@ -2,8 +2,8 @@
 
 Tags: comments, edit comments, change comment, nested comments, update comment, move comments
 Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 1.0.2
+Tested up to: 3.5.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,6 +22,7 @@ Features:
 *   Move comments across posts, pages, and posts under custom post types
 *   Automatically move all the nested comments under the comment chosen to be moved
 *   Manual insertion of post ID is not needed; post/page can be chosen under a dropdown list
+*	No more ugly dropdowns! Autocomplete enabled; searching for post title becomes easier
 
 **Rate this Plugin**
 
